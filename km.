@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main() {
+float x;
+printf("enter the kms:");
+scanf("%f",&x0);
+float perday= 2*x;
+float perweek= perday*5;
+printf("kms travelled by rahul: %f",perweek);
+return 0;
+}
